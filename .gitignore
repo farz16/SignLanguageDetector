@@ -1,0 +1,12 @@
+﻿age_env/
+venv/
+__pycache__/
+*.pyc
+.env
+*.keras
+*.pkl
+dataset/
+utkface_data/
+camera*.jpg
+test.jpg
+screenshot_*.jpg
